@@ -1,0 +1,30 @@
+*
+{
+    font-family: Tahoma;
+    margin:25px;
+}
+body{
+    background-color: white;
+}
+h1{
+    padding: 15px;
+    color:pink;
+    border: 10px;
+    border-color: antiquewhite;
+    border-style: dashed;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline; 
+}
+p{
+    color: indigo;
+    text-align: justify;
+    border-radius: 25px;
+    border-style: solid;
+    border-color: red;
+    padding: 10px;
+}
+img {
+    width: 35%;
+}
+
